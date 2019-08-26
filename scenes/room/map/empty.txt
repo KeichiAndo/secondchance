@@ -1,0 +1,1 @@
+map is a collection of organized room, including pathway, collission and such
