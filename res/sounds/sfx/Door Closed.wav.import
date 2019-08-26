@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Door Closed.wav-7f432e897d5c6b4956da8fe525a1556c.sample"
+
+[deps]
+
+source_file="res://res/sounds/sfx/Door Closed.wav"
+dest_files=[ "res://.import/Door Closed.wav-7f432e897d5c6b4956da8fe525a1556c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
