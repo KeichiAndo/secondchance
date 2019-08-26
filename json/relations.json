@@ -1,0 +1,48 @@
+{
+	"Ellie":{
+		"Alex": 50
+	},
+	"Alex":{
+		"Ellie": 50,
+		"Man": 0,
+		"Woman": 0,
+		"Twin": 0,
+		"NEET": 0,
+		"Brat": 0
+	},
+	"Man":{
+		"Alex": 0,
+		"Woman": 0,
+		"Twin": 0,
+		"NEET": 0,
+		"Brat": 0
+	},
+	"Woman":{
+		"Alex": 0,
+		"Man": 0,
+		"Twin": 0,
+		"NEET": 0,
+		"Brat": 0
+	},
+	"Twin":{
+		"Alex": 0,
+		"Man": 0,
+		"Woman": 0,
+		"NEET": 0,
+		"Brat": 0
+	},
+	"NEET":{
+		"Alex": 0,
+		"Man": 0,
+		"Woman": 0,
+		"Twin": 0,
+		"Brat": 0
+	},
+	"Brat":{
+		"Alex": 0,
+		"Man": 0,
+		"Woman": 0,
+		"Twin": 0,
+		"NEET": 0
+	},
+}
